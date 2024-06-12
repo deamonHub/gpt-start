@@ -10,6 +10,7 @@ from collections import defaultdict,Counter
 
 corpus = ["我喜欢吃苹果",
           "我喜欢吃香蕉",
+          "我喜欢吃香蕉m",
           "她喜欢吃葡萄",
           "他不喜欢吃香蕉",
           "他喜欢吃苹果",
